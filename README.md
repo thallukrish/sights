@@ -1,44 +1,44 @@
-# Sights# Amazon Product Insights<<<<<<< HEAD
+# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
 
 
 
-A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.# Amazon Product Insights
+A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.
 
 
 
-## 🎯 Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+## Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.# Amazon Product Insights
 
 Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
 
-A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
 
-## 📋 Project Description
 
-## 🎯 Live Preview
+## Project Description
+
+## 🎯 Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
 
 Sights is designed to help consumers make informed purchasing decisions by:
 
-Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)## 🎯 Live Preview
+Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
 
-- 📊 **Price Monitoring**: Track price changes across thousands of Amazon products
+- **Price Monitoring**: Track price changes across thousands of Amazon products
 
-- 📈 **Trend Analysis**: Historical data analysis with 60-day price trends  Visit: [https://yourusername.github.io/amazon-product-insights](https://yourusername.github.io/amazon-product-insights)
+- **Trend Analysis**: Historical data analysis with 60-day price trends  A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
 
-- ⭐ **Smart Recommendations**: AI-powered suggestions based on ratings and reviews
+- **Smart Recommendations**: AI-powered suggestions based on ratings and reviews
 
-- 🔔 **Alert System**: Notifications for price drops and availability changes## 📋 Project Description
+- **Alert System**: Notifications for price drops and availability changes## 📋 Project Description
 
-- 📱 **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
+- **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
 
-- 🤖 **LLM Integration**: Intelligent product analysis and natural language insights## 📋 Project Description
-
-
-
-## 🛠️ Technical StackAmazon Product Insights is designed to help consumers make informed purchasing decisions by:
+- **LLM Integration**: Intelligent product analysis and natural language insights## 🎯 Live Preview
 
 
 
-**Frontend:**Amazon Product Insights is designed to help consumers make informed purchasing decisions by:
+## Technical StackSights is designed to help consumers make informed purchasing decisions by:
+
+
+
+**Frontend:**Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)## 🎯 Live Preview
 
 - React.js with TypeScript
 
@@ -46,76 +46,193 @@ Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sigh
 
 - Responsive CSS design
 
-- IndexedDB for local storage- 📈 **Trend Analysis**: Historical data analysis with 60-day price trends  - 📊 **Price Monitoring**: Track price changes across thousands of Amazon products
+- IndexedDB for local storage- 📈 **Trend Analysis**: Historical data analysis with 60-day price trends  Visit: [https://yourusername.github.io/amazon-product-insights](https://yourusername.github.io/amazon-product-insights)
 
 
 
-**Backend:**- ⭐ **Smart Recommendations**: AI-powered suggestions based on ratings and reviews- 📈 **Trend Analysis**: Historical data analysis with 60-day price trends  
+**Backend:**- ⭐ **Smart Recommendations**: AI-powered suggestions based on ratings and reviews
 
 - Node.js with Express.js
 
-- Amazon Product Advertising API 5.0- 🔔 **Alert System**: Notifications for price drops and availability changes- ⭐ **Smart Recommendations**: AI-powered suggestions based on ratings and reviews
+- Amazon Product Advertising API 5.0- 🔔 **Alert System**: Notifications for price drops and availability changes## 📋 Project Description
 
 - RESTful API architecture
 
-- LLM integration for intelligent insights- 📱 **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles- 🔔 **Alert System**: Notifications for price drops and availability changes
+- LLM integration for intelligent insights- 📱 **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
 
 
 
-**AI & Analytics:**- 📱 **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
+**AI & Analytics:**- 🤖 **LLM Integration**: Intelligent product analysis and natural language insights## 📋 Project Description
 
 - Large Language Model integration
 
-- Natural language product analysis## 🛠️ Technical Stack
+- Natural language product analysis
 
 - Smart recommendation algorithms
 
-- Trend prediction and insights## 🛠️ Technical Stack
+- Trend prediction and insights## 🛠️ Technical StackAmazon Product Insights is designed to help consumers make informed purchasing decisions by:
 
 
 
-## 🎪 Amazon Associate Integration**Frontend:**
+## Amazon Associate Integration
 
 
 
-This platform will integrate with the Amazon Associates Program to:- React.js with TypeScript**Frontend:**
+This platform will integrate with the Amazon Associates Program to:**Frontend:**Amazon Product Insights is designed to help consumers make informed purchasing decisions by:
 
 
 
-✅ Provide transparent affiliate link disclosures  - Vite build system- React.js with TypeScript
+- Provide transparent affiliate link disclosures  - React.js with TypeScript
 
-✅ Help users discover the best deals and products  
+- Help users discover the best deals and products  
 
-✅ Generate modest commissions to support development  - Responsive CSS design- Vite build system
+- Generate modest commissions to support development  - Vite build system- 📊 **Price Monitoring**: Track price changes across thousands of Amazon products
 
-✅ Maintain focus on user value over commission rates  
+- Maintain focus on user value over commission rates  
 
-- IndexedDB for local storage- Responsive CSS design
+- Responsive CSS design
 
 ### Content Strategy
 
-- Weekly deal roundups and price alerts- IndexedDB for local storage
+- Weekly deal roundups and price alerts- IndexedDB for local storage- 📈 **Trend Analysis**: Historical data analysis with 60-day price trends  - 📊 **Price Monitoring**: Track price changes across thousands of Amazon products
 
 - Category-specific buying guides  
 
-- Product comparison articles**Backend:**
+- Product comparison articles
 
 - Market trend analysis and insights
 
-- AI-generated product recommendations- Node.js with Express.js**Backend:**
+- AI-generated product recommendations**Backend:**- ⭐ **Smart Recommendations**: AI-powered suggestions based on ratings and reviews- 📈 **Trend Analysis**: Historical data analysis with 60-day price trends  
 
 
 
-## 🗓️ Development Roadmap- Amazon Product Advertising API 5.0- Node.js with Express.js
+## Development Roadmap- Node.js with Express.js
 
 
 
-- [x] **Phase 1**: Core monitoring and price tracking- Web scraping capabilities- Amazon Product Advertising API 5.0
+- [x] **Phase 1**: Core monitoring and price tracking- Amazon Product Advertising API 5.0- 🔔 **Alert System**: Notifications for price drops and availability changes- ⭐ **Smart Recommendations**: AI-powered suggestions based on ratings and reviews
 
 - [x] **Phase 2**: Amazon product data extraction
 
+- [ ] **Phase 3**: Amazon PA-API integration (pending Associate approval)- RESTful API architecture
+
+- [ ] **Phase 4**: LLM integration for smart insights
+
+- [ ] **Phase 5**: Advanced analytics and visualizations- LLM integration for intelligent insights- 📱 **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles- 🔔 **Alert System**: Notifications for price drops and availability changes
+
+- [ ] **Phase 6**: User accounts and personalization
+
+- [ ] **Phase 7**: Mobile app development
+
+
+
+## Target Categories**AI & Analytics:**- 📱 **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
+
+
+
+**Primary Focus:**- Large Language Model integration
+
+- Smartphones (iPhone, Samsung, OnePlus, Pixel)
+
+- Laptops (MacBook, Dell, HP, Lenovo)  - Natural language product analysis## 🛠️ Technical Stack
+
+- Televisions (Samsung OLED, LG, Sony, TCL)
+
+- Headphones (AirPods, Sony, Bose, JBL)- Smart recommendation algorithms
+
+- Gaming Consoles (PS5, Xbox, Nintendo Switch)
+
+- Trend prediction and insights## 🛠️ Technical Stack
+
+**Expansion Plans:**
+
+- Wearables and smart devices
+
+- Home appliances and electronics
+
+- Books and e-readers## 🎪 Amazon Associate Integration**Frontend:**
+
+- Fashion and lifestyle products
+
+
+
+## Getting Started
+
+This platform will integrate with the Amazon Associates Program to:- React.js with TypeScript**Frontend:**
+
+### Prerequisites
+
+- Node.js 20.19+ or 22.12+
+
+- Amazon Associates Account (pending approval)
+
+- Amazon Product Advertising API access✅ Provide transparent affiliate link disclosures  - Vite build system- React.js with TypeScript
+
+
+
+### Installation✅ Help users discover the best deals and products  
+
+```bash
+
+git clone https://github.com/thallukrish/sights.git✅ Generate modest commissions to support development  - Responsive CSS design- Vite build system
+
+cd sights
+
+npm install✅ Maintain focus on user value over commission rates  
+
+npm run dev
+
+```- IndexedDB for local storage- Responsive CSS design
+
+
+
+### Configuration### Content Strategy
+
+1. Copy `.env.example` to `.env`
+
+2. Add Amazon Associates credentials (upon approval)- Weekly deal roundups and price alerts- IndexedDB for local storage
+
+3. Configure API endpoints and rate limits
+
+- Category-specific buying guides  
+
+## Contact
+
+- Product comparison articles**Backend:**
+
+**Developer**: Thalapathy Krishnamurthy  
+
+**GitHub**: [thallukrish](https://github.com/thallukrish)  - Market trend analysis and insights
+
+**Email**: thallukrish@gmail.com  
+
+- AI-generated product recommendations- Node.js with Express.js**Backend:**
+
+## Legal & Compliance
+
+
+
+This project will fully comply with:
+
+- Amazon Associates Program Agreement## 🗓️ Development Roadmap- Amazon Product Advertising API 5.0- Node.js with Express.js
+
+- Product Advertising API Terms of Service  
+
+- Data privacy and protection regulations
+
+- Transparent affiliate link disclosures
+
+- [x] **Phase 1**: Core monitoring and price tracking- Web scraping capabilities- Amazon Product Advertising API 5.0
+
+---
+
+- [x] **Phase 2**: Amazon product data extraction
+
+**Status**: Actively developing | Seeking Amazon Associate Program approval
+
 - [ ] **Phase 3**: Amazon PA-API integration (pending Associate approval)- RESTful API architecture- Web scraping capabilities
 
+*This repository demonstrates our commitment to building a valuable product comparison platform that benefits both consumers and the Amazon ecosystem through ethical affiliate marketing.*
 - [ ] **Phase 4**: LLM integration for smart insights
 
 - [ ] **Phase 5**: Advanced analytics and visualizations- RESTful API architecture
