@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Product Insights - Smart Shopping Decisions</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        .main-content {
+            background: white;
+            margin: 2rem 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .section {
+            padding: 2rem;
+            border-bottom: 1px solid #eee;
+        }
+        .section:last-child {
+            border-bottom: none;
+        }
+        .section h2 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+        .section h3 {
+            color: #34495e;
+            margin: 1.5rem 0 1rem 0;
+            font-size: 1.3rem;
+        }
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 1.5rem 0;
+        }
+        .feature-card {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        .feature-card h4 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        .categories-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        .category-item {
+            background: #e3f2fd;
+            padding: 1rem;
+            border-radius: 6px;
+            text-align: center;
+            font-weight: 500;
+            color: #1565c0;
+        }
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        .tech-item {
+            background: #667eea;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        .timeline {
+            margin: 1.5rem 0;
+        }
+        .timeline-item {
+            background: #f8f9fa;
+            padding: 1rem;
+            margin: 0.5rem 0;
+            border-left: 4px solid #28a745;
+            border-radius: 0 6px 6px 0;
+        }
+        .timeline-item h4 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1.5rem 0;
+        }
+        .highlight {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 1rem;
+            border-radius: 6px;
+            margin: 1rem 0;
+        }
+        .highlight strong {
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛍️ Amazon Product Insights</h1>
+            <p>Intelligent Product Monitoring & Price Tracking Platform</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="main-content">
+            
+            <section class="section">
+                <h2>🎯 Project Overview</h2>
+                <p>Amazon Product Insights is a comprehensive web application designed to help consumers make informed purchasing decisions by monitoring Amazon products, tracking price changes, analyzing trends, and providing intelligent recommendations.</p>
+                
+                <div class="highlight">
+                    <strong>🎪 Purpose:</strong> This platform will integrate Amazon Associate Program links to help users discover the best deals while supporting our development through ethical affiliate commissions.
+                </div>
+
+                <h3>🏆 Key Value Propositions</h3>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <h4>💰 Price Tracking</h4>
+                        <p>Monitor price changes across thousands of products with historical trend analysis and alert notifications.</p>
+                    </div>
+                    <div class="feature-card">
+                        <h4>⭐ Smart Recommendations</h4>
+                        <p>AI-powered product suggestions based on features, ratings, reviews, and user preferences.</p>
+                    </div>
+                    <div class="feature-card">
+                        <h4>📊 Market Intelligence</h4>
+                        <p>Comprehensive analytics on product categories, brand comparisons, and seasonal trends.</p>
+                    </div>
+                    <div class="feature-card">
+                        <h4>🔄 Real-time Monitoring</h4>
+                        <p>Automated monitoring system that tracks availability, prices, and promotional offers.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>🛒 Target Product Categories</h2>
+                <p>Our platform focuses on high-demand consumer electronics and lifestyle products:</p>
+                
+                <div class="categories-list">
+                    <div class="category-item">📱 Smartphones</div>
+                    <div class="category-item">💻 Laptops & Computers</div>
+                    <div class="category-item">📺 Televisions & Home Theater</div>
+                    <div class="category-item">🎧 Audio & Headphones</div>
+                    <div class="category-item">🎮 Gaming Consoles & Accessories</div>
+                    <div class="category-item">⌚ Wearables & Smart Devices</div>
+                    <div class="category-item">🏠 Home Appliances</div>
+                    <div class="category-item">📚 Books & E-readers</div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>⚙️ Technical Architecture</h2>
+                <h3>Frontend Technologies</h3>
+                <div class="tech-stack">
+                    <span class="tech-item">React.js</span>
+                    <span class="tech-item">TypeScript</span>
+                    <span class="tech-item">Vite</span>
+                    <span class="tech-item">CSS3</span>
+                    <span class="tech-item">Responsive Design</span>
+                </div>
+
+                <h3>Backend & APIs</h3>
+                <div class="tech-stack">
+                    <span class="tech-item">Node.js</span>
+                    <span class="tech-item">Express.js</span>
+                    <span class="tech-item">Amazon PA-API 5.0</span>
+                    <span class="tech-item">Web Scraping</span>
+                    <span class="tech-item">RESTful APIs</span>
+                </div>
+
+                <h3>Data & Storage</h3>
+                <div class="tech-stack">
+                    <span class="tech-item">IndexedDB</span>
+                    <span class="tech-item">CSV Export</span>
+                    <span class="tech-item">JSON Processing</span>
+                    <span class="tech-item">File System API</span>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>🗓️ Development Roadmap</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <h4>Phase 1: Core Monitoring (Completed)</h4>
+                        <p>Basic product monitoring, price tracking, and data collection functionality with Amazon product extraction.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Phase 2: Amazon Integration (In Progress)</h4>
+                        <p>Amazon Product Advertising API integration, affiliate link management, and Associate Program compliance.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Phase 3: Analytics & Insights (Planned)</h4>
+                        <p>Advanced analytics, trend analysis, price history visualization, and intelligent recommendations.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Phase 4: User Experience (Planned)</h4>
+                        <p>User accounts, wishlist management, personalized alerts, and social sharing features.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Phase 5: Mobile & Scale (Future)</h4>
+                        <p>Mobile app development, API for third-party integrations, and enterprise features.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>🎨 User Interface Preview</h2>
+                <h3>Dashboard Features</h3>
+                <ul style="margin-left: 2rem; margin-top: 1rem;">
+                    <li><strong>Product Cards:</strong> Clean, informative displays with prices, ratings, and availability</li>
+                    <li><strong>Price Charts:</strong> Historical price trends with interactive visualizations</li>
+                    <li><strong>Smart Filters:</strong> Category, price range, rating, and brand filtering</li>
+                    <li><strong>Alert System:</strong> Customizable notifications for price drops and availability</li>
+                    <li><strong>Comparison Tool:</strong> Side-by-side product comparisons with detailed specs</li>
+                    <li><strong>Wishlist Management:</strong> Save and organize products with monitoring preferences</li>
+                </ul>
+
+                <h3>Data Insights</h3>
+                <ul style="margin-left: 2rem; margin-top: 1rem;">
+                    <li>📈 Price trend analysis with seasonal patterns</li>
+                    <li>🏆 Best deals and discount opportunities</li>
+                    <li>⭐ Rating and review aggregation across time</li>
+                    <li>🔥 Popular products and trending items</li>
+                    <li>💡 Personalized recommendations based on browsing history</li>
+                </ul>
+            </section>
+
+            <section class="section">
+                <h2>🤝 Amazon Associate Integration</h2>
+                <div class="highlight">
+                    <strong>Ethical Monetization:</strong> This platform will implement Amazon Associate Program links transparently, helping users discover great products while generating modest affiliate commissions to support ongoing development and hosting costs.
+                </div>
+
+                <h3>Implementation Strategy</h3>
+                <ul style="margin-left: 2rem; margin-top: 1rem;">
+                    <li><strong>Transparent Disclosure:</strong> Clear affiliate link disclosures on all pages</li>
+                    <li><strong>User Value First:</strong> Focus on providing genuine value through accurate data and insights</li>
+                    <li><strong>Quality Curation:</strong> Recommend products based on data analysis, not commission rates</li>
+                    <li><strong>Link Management:</strong> Automated affiliate link insertion with proper attribution</li>
+                    <li><strong>Performance Tracking:</strong> Monitor click-through rates and conversion analytics</li>
+                </ul>
+
+                <h3>Content Strategy</h3>
+                <ul style="margin-left: 2rem; margin-top: 1rem;">
+                    <li>📝 Product buying guides and comparisons</li>
+                    <li>📊 Weekly deal roundups and price drop alerts</li>
+                    <li>🎯 Category-specific recommendation articles</li>
+                    <li>📈 Market trend analysis and seasonal insights</li>
+                    <li>⭐ User-generated reviews and community feedback</li>
+                </ul>
+            </section>
+
+            <section class="section">
+                <h2>📞 Contact & Development</h2>
+                <p><strong>Developer:</strong> [Your Name]</p>
+                <p><strong>Email:</strong> [your-email@example.com]</p>
+                <p><strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+                <p><strong>Project Repository:</strong> <a href="https://github.com/yourusername/amazon-product-insights" target="_blank">Amazon Product Insights on GitHub</a></p>
+                
+                <div class="highlight">
+                    <strong>🚀 Current Status:</strong> Actively developing core features with plans to launch beta version within 2-3 months. Seeking Amazon Associate Program approval to integrate authentic product links and provide transparent affiliate disclosure.
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Amazon Product Insights. Built with ❤️ for smart shoppers.</p>
+            <p><em>This site will participate in the Amazon Associates Program upon approval.</em></p>
+        </div>
+    </footer>
+</body>
+</html>
