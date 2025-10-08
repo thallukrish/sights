@@ -1,38 +1,72 @@
-# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
+# Sights# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
 
 
 
-A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.
+**Intelligent Product Monitoring & AI-Powered Shopping Insights**
 
 
+
+## 🌐 Live WebsiteA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.
+
+
+
+**Visit the complete project documentation and details:**  
+
+**[https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)**
 
 ## Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.# Amazon Product Insights
 
+## Quick Overview
+
 Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
 
+Sights is a comprehensive web application for Amazon product monitoring, price tracking, and AI-powered shopping recommendations. The platform will integrate with the Amazon Associates Program to help users discover great deals while supporting development through ethical affiliate commissions.
 
 
-## Project Description
 
-## 🎯 Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+### Key Features
+
+- **Price Tracking** - Monitor price changes with historical analysis## Project Description
+
+- **AI-Powered Insights** - Smart recommendations and natural language analysis  
+
+- **Real-time Monitoring** - Automated alerts for availability and price drops## 🎯 Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+
+- **Multi-Category Support** - Electronics, smartphones, laptops, gaming, and more
 
 Sights is designed to help consumers make informed purchasing decisions by:
 
-Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
+### Technology Stack
 
-- **Price Monitoring**: Track price changes across thousands of Amazon products
+- **Frontend:** React, TypeScript, ViteVisit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
 
-- **Trend Analysis**: Historical data analysis with 60-day price trends  A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+- **Backend:** Node.js, Express.js, Amazon PA-API 5.0
+
+- **AI Integration:** Large Language Models for intelligent insights- **Price Monitoring**: Track price changes across thousands of Amazon products
+
+
+
+## Development Status- **Trend Analysis**: Historical data analysis with 60-day price trends  A comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+
+🚧 **Actively developing** | Seeking Amazon Associate Program approval
 
 - **Smart Recommendations**: AI-powered suggestions based on ratings and reviews
 
-- **Alert System**: Notifications for price drops and availability changes## 📋 Project Description
+## Contact
 
-- **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
+**Developer:** Thalapathy Krishnamurthy  - **Alert System**: Notifications for price drops and availability changes## 📋 Project Description
 
-- **LLM Integration**: Intelligent product analysis and natural language insights## 🎯 Live Preview
+**GitHub:** [thallukrish](https://github.com/thallukrish)  
+
+**Email:** thallukrish@gmail.com- **Multi-Category Support**: Smartphones, laptops, TVs, headphones, gaming consoles
 
 
+
+---- **LLM Integration**: Intelligent product analysis and natural language insights## 🎯 Live Preview
+
+
+
+*For complete project details, roadmap, technical specifications, and Amazon Associates integration strategy, please visit the [live website](https://thallukrish.github.io/sights).*
 
 ## Technical StackSights is designed to help consumers make informed purchasing decisions by:
 
