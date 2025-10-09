@@ -1,6 +1,8 @@
-# Sights# Sights# Sights# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
+# Sights# Sights# Sights# Sights# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
 
 
+
+**Visit the project website:** [https://thallukrish.github.io/sights/](https://thallukrish.github.io/sights/)
 
 **Visit the project website:** [https://thallukrish.github.io/sights/](https://thallukrish.github.io/sights/)
 
