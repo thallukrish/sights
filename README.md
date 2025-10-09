@@ -1,4 +1,4 @@
-# Sights# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
+# Sights# Sights# Sights# Sights# Amazon Product Insights<<<<<<< HEAD
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-## 🌐 Live WebsiteA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.
+## 🌐 Live Website**Intelligent Product Monitoring & AI-Powered Shopping Insights**
 
 
 
@@ -14,25 +14,59 @@
 
 **[https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)**
 
-## Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.# Amazon Product Insights
+## 🌐 Live WebsiteA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.
 
 ## Quick Overview
 
-Visit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
+
 
 Sights is a comprehensive web application for Amazon product monitoring, price tracking, and AI-powered shopping recommendations. The platform will integrate with the Amazon Associates Program to help users discover great deals while supporting development through ethical affiliate commissions.
 
-
+**Visit the complete project documentation and details:**  
 
 ### Key Features
 
-- **Price Tracking** - Monitor price changes with historical analysis## Project Description
+- **Price Tracking** - Monitor price changes with historical analysis**[https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)**
 
 - **AI-Powered Insights** - Smart recommendations and natural language analysis  
 
-- **Real-time Monitoring** - Automated alerts for availability and price drops## 🎯 Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+- **Real-time Monitoring** - Automated alerts for availability and price drops## Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations with AI-powered insights.# Amazon Product Insights
 
 - **Multi-Category Support** - Electronics, smartphones, laptops, gaming, and more
+
+## Quick Overview
+
+### Technology Stack
+
+- **Frontend:** React, TypeScript, ViteVisit: [https://thallukrish.github.io/sights](https://thallukrish.github.io/sights)
+
+- **Backend:** Node.js, Express.js, Amazon PA-API 5.0
+
+- **AI Integration:** Large Language Models for intelligent insightsSights is a comprehensive web application for Amazon product monitoring, price tracking, and AI-powered shopping recommendations. The platform will integrate with the Amazon Associates Program to help users discover great deals while supporting development through ethical affiliate commissions.
+
+
+
+## Development Status
+
+🚧 **Actively developing** | Seeking Amazon Associate Program approval
+
+### Key Features
+
+## Contact
+
+**Developer:** Thalapathy Krishnamurthy  - **Price Tracking** - Monitor price changes with historical analysis## Project Description
+
+**GitHub:** [thallukrish](https://github.com/thallukrish)  
+
+**Email:** thallukrish@gmail.com- **AI-Powered Insights** - Smart recommendations and natural language analysis  
+
+
+
+---- **Real-time Monitoring** - Automated alerts for availability and price drops## 🎯 Live PreviewA comprehensive web application for intelligent Amazon product monitoring, price tracking, and smart shopping recommendations.
+
+
+
+*For complete project details, roadmap, technical specifications, and Amazon Associates integration strategy, please visit the [live website](https://thallukrish.github.io/sights).*- **Multi-Category Support** - Electronics, smartphones, laptops, gaming, and more
 
 Sights is designed to help consumers make informed purchasing decisions by:
 
